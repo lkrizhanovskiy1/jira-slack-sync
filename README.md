@@ -13,7 +13,7 @@ will make the following values
 
 ### Slack
 
-1. Visit ["Your Apps" in Slack Administration](https://community.atlassian.com/t5/Automation-articles/Mention-someone-directly-in-Slack-via-Jira-Automation/ba-p/1528605#:~ :text=Your%20Apps%20page%20in%20Slack%E2%80%99s%20administration)
+1. Visit ["Your Apps" in Slack Administration](https://api.slack.com/apps)
 and click ***Create a new app***.
 
 2. Name your app (for example ***"Jira Automation Sync"***) and select the workspace you want to sync with Jira.
