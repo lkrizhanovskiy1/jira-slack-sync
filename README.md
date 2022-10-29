@@ -1,7 +1,7 @@
 
 ## Presets
-Copy the `.env.example` file and rename it to `.env`, then run it in a convenient editor
-will make the following values
+Create `.env` file
+Add the following values
 
 `SLACK_TOKEN` The Slack application token. See section ***Slack***
 
